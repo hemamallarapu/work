@@ -1,0 +1,26 @@
+<bookstore  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:noNamespaceSchemaLocation="book.xsd"> 
+<book> 
+<title>Web Technologies</title> 
+<author> 
+<first-name>A.A</first-name> 
+<last-name>Punthabekar</last-name> 
+</author> 
+<price>$250</price> 
+<genre>Technical</genre> 
+<publicationdate>2010-03-02</publicationdate> 
+<ISBN>1234-5678-34</ISBN> 
+</book> 
+<book> 
+<title>Artificial Intelligence</title> 
+<author> 
+<first-name>Saroj</first-name> 
+<last-name>Kaushik</last-name> 
+</author> 
+<price>$250</price> 
+<genre>Technical</genre> 
+<publicationdate>2008-03-02</publicationdate> 
+<ISBN>1234-5678-34</ISBN> 
+</book> 
+</bookstore>
